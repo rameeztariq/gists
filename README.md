@@ -1,1 +1,1 @@
-Replace the authentication to run the application
+Replace the authentication token to run the application
